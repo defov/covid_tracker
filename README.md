@@ -1,5 +1,5 @@
 # covid_tracker
-This is made for learning purpose only.
+This is made with React for learning purpose only.
 
 ## Scripts
 
